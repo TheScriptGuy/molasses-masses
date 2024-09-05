@@ -1,0 +1,23 @@
+[
+("digital-ocean", 14061),
+("tzulo", 11878),
+("tech-futures", 394256),
+("ovh", 16276),
+("stark-industries", 44477),
+("global-layer-network", 49453),
+("m247", 9009),
+("limenet", 394711),
+("horizon", 59425),
+("altushost", 51430),
+("emanuel-hosting", 215766),
+("kustbandet", 51815),
+("dataclub-sa", 52048),
+("global-communications-net", 12615),
+("4media", 212283),
+("ipvolume", 202425),
+("softtronics-communication", 6730),
+("contabo", 51167),
+("planeto", 50340),
+("network-systems", 50968),
+("neterra", 209605)
+]
