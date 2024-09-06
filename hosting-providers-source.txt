@@ -19,5 +19,7 @@
 ("contabo", 51167),
 ("planeto", 50340),
 ("network-systems", 50968),
-("neterra", 209605)
+("neterra", 209605),
+("alibaba-singapore-ecommerce", 45102),
+("amanah-tech", 32489)
 ]
