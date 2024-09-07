@@ -22,5 +22,8 @@
 ("neterra", 209605),
 ("alibaba-singapore-ecommerce", 45102),
 ("amanah-tech", 32489),
-("hostglobal-plus", 202306)
+("hostglobal-plus", 202306),
+("quintex-alliance-consulting", 62744),
+("ucloud-information-technology-hk", 135377),
+("packethub-sa", 147049)
 ]
