@@ -21,5 +21,6 @@
 ("network-systems", 50968),
 ("neterra", 209605),
 ("alibaba-singapore-ecommerce", 45102),
-("amanah-tech", 32489)
+("amanah-tech", 32489),
+("hostglobal-plus", 202306)
 ]
