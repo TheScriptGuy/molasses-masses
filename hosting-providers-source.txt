@@ -25,5 +25,7 @@
 ("hostglobal-plus", 202306),
 ("quintex-alliance-consulting", 62744),
 ("ucloud-information-technology-hk", 135377),
-("packethub-sa", 147049)
+("packethub-sa", 147049),
+("surfplanet-gmbh", 33984),
+("sharknet", 46844)
 ]
