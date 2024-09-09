@@ -27,5 +27,7 @@
 ("ucloud-information-technology-hk", 135377),
 ("packethub-sa", 147049),
 ("surfplanet-gmbh", 33984),
-("sharknet", 46844)
+("sharknet", 46844),
+("leaseweb", 28753),
+("scaleway", 12876)
 ]
