@@ -33,5 +33,7 @@
 ("inmotionhosting", 3842),
 ("ace-data-centers-ii", 11798),
 ("purevoltage-hosting", 26548),
-("king-servers", 14576)
+("king-servers", 14576),
+("creanova", 51765),
+("finegroupservers", 35830)
 ]
