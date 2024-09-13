@@ -35,5 +35,9 @@
 ("purevoltage-hosting", 26548),
 ("king-servers", 14576),
 ("creanova", 51765),
-("finegroupservers", 35830)
+("finegroupservers", 35830),
+("zenlayer", 21859),
+("interserver", 19318),
+("tencent", 45090),
+("contell", 204490)
 ]
