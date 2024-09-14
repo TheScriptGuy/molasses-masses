@@ -39,5 +39,7 @@
 ("zenlayer", 21859),
 ("interserver", 19318),
 ("tencent", 45090),
-("contell", 204490)
+("contell", 204490),
+("equinix", 15830),
+("hostgnome", 201579)
 ]
