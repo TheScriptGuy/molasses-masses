@@ -38,8 +38,14 @@
 ("finegroupservers", 35830),
 ("zenlayer", 21859),
 ("interserver", 19318),
-("tencent", 45090),
+("tencent1", 45090),
+("tencent2", 132203),
 ("contell", 204490),
 ("equinix", 15830),
-("hostgnome", 201579)
+("hostgnome", 201579),
+("moack", 138195),
+("contabo", 40021),
+("bogahost", 200239),
+("kurun-cloud", 8796),
+("selectel", 50340)
 ]
