@@ -47,5 +47,6 @@
 ("contabo", 40021),
 ("bogahost", 200239),
 ("kurun-cloud", 8796),
-("selectel", 50340)
+("selectel1", 50340),
+("selectel2", 49505)
 ]
