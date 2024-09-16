@@ -6,7 +6,7 @@ Project Molasses-Masses is designed to provide a dynamically updated list of hos
 
 Acknowledging that hosting providers themselves are not inherently problematic, some of their customers may have malicious intentions. Therefore, we adopt a "block first" approach, creating exceptions to allow legitimate traffic through as needed.
 
-This project is currently tracking `5765` IPv4 Subnets and `687` IPv6 Subnets.
+This project is currently tracking `5774` IPv4 Subnets and `686` IPv6 Subnets.
 
 ## :hammer_and_wrench: How It Works
 
@@ -104,6 +104,65 @@ data/2024-09-09/amanah-tech-AS32489-v4.txt: line 15: 100.0.0.0/8
     If the --directory argument is provided, the script will recursively search through all files within the directory (excluding hidden files and directories).
     If the --file argument is used, only that specific file will be searched.
     The search is performed using Python's ipaddress module, which checks for both exact matches and subnet overlaps.
+
+
+# Add Hosting Provider Script :computer:
+
+This Python script (`add_hp.py`) allows you to easily add new hosting provider entries to the `hosting-providers-source.txt` file. It's designed to maintain a consistent format and prevent duplicate entries.
+
+## :rocket: Features
+
+- Add new hosting providers with their AS (Autonomous System) numbers
+- Prevent duplicate AS number entries
+- Maintain consistent file format
+- Provide feedback on successful additions and total entries
+
+## :book: Usage
+
+1. :open_file_folder: Ensure that `add_hp.py` and `hosting-providers-source.txt` are in the same directory.
+
+2. :computer: Open a terminal or command prompt and navigate to the directory containing the script.
+
+3. :keyboard: Run the script using the following command format:
+
+   ```
+   python add_hp.py <name> <as_number>
+   ```
+
+   Replace `<name>` with the hosting provider's name and `<as_number>` with their AS number.
+
+   Example:
+   ```
+   python add_hp.py example-host 12345
+   ```
+
+4. :white_check_mark: If successful, you'll see a confirmation message and the total number of entries in the file.
+
+## :warning: Input Validation
+
+- The `name` can contain letters, numbers, hyphens, and underscores.
+- The `as_number` must be a positive integer.
+
+## :x: Error Handling
+
+The script will display error messages for the following situations:
+- Incorrect number of arguments
+- Invalid name format
+- Invalid AS number
+- Duplicate AS number in the existing file
+
+## :file_folder: File Format
+
+The `hosting-providers-source.txt` file maintains the following format:
+
+```
+[
+("provider1", 12345),
+("provider2", 67890),
+...
+("last-provider", 99999)
+]
+```
 
 
 ## :warning: Disclaimer
