@@ -50,4 +50,6 @@
 ('selectel1', 50340),
 ('selectel2', 49505),
 ('vpsnet', 61053),
+('belcloud', 44901),
+('akamai-linode', 63949)
 ]
