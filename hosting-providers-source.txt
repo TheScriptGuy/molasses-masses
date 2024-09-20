@@ -57,5 +57,7 @@
 ('flyservers1', 209588),
 ('alviva-holdings-ltd', 209132),
 ('xhost-internet-solutions', 208091),
-('unmanaged-dedicated-servers', 47890)
+('unmanaged-dedicated-servers', 47890),
+('dm_auto', 207812),
+('aeza-international', 210644)
 ]
