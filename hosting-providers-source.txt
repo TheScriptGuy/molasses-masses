@@ -62,5 +62,8 @@
 ('dm_auto', 207812),
 ('aeza-international', 210644),
 ('sprious', 64267),
-('changway-technologies', 57523)
+('changway-technologies', 57523),
+('nls-kazakhstan', 200590),
+('aurologic', 30823),
+('karinar', 215789)
 ]
