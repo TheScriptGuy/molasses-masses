@@ -67,5 +67,7 @@
 ('aurologic', 30823),
 ('karinar', 215789),
 ('red-byte-llc-1', 208312),
-('hostkey-usa', 395839)
+('hostkey-usa', 395839),
+('ingenuitycloudservices', 13213),
+('clouvider', 62240)
 ]
