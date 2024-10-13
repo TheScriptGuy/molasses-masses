@@ -69,5 +69,7 @@
 ('red-byte-llc-1', 208312),
 ('hostkey-usa', 395839),
 ('ingenuitycloudservices', 13213),
-('clouvider', 62240)
+('clouvider', 62240),
+('datacamp', 212238),
+('quadranet', 8100)
 ]
