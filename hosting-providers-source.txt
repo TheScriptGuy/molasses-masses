@@ -71,5 +71,6 @@
 ('ingenuitycloudservices', 13213),
 ('clouvider', 62240),
 ('datacamp', 212238),
-('quadranet', 8100)
+('quadranet', 8100),
+('latitude-sh', 262287)
 ]
