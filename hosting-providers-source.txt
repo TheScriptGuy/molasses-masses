@@ -78,5 +78,6 @@
 ('performive', 46562),
 ('xtom', 6233),
 ('cyber-data-networks', 400882),
-('xhost-internet-solutions2', 212482)
+('xhost-internet-solutions2', 212482),
+('latitude-sh-2', 396356)
 ]
