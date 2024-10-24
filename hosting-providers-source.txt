@@ -81,5 +81,6 @@
 ('xhost-internet-solutions2', 212482),
 ('latitude-sh-2', 396356),
 ('gigenet', 32181),
-('4cloud-mobi', 211632)
+('4cloud-mobi', 211632),
+('gslnetworks-as-ap', 137409)
 ]
