@@ -82,5 +82,12 @@
 ('latitude-sh-2', 396356),
 ('gigenet', 32181),
 ('4cloud-mobi', 211632),
-('gslnetworks-as-ap', 137409)
+('gslnetworks-as-ap', 137409),
+('krez999as', 200391),
+('layer7-isiendusers', 214403),
+('layer7-networks', 35042),
+('layer7-par1', 199912),
+('layer7-fra2', 211179),
+('silverstar-as', 35624),
+('bns-as', 43444)
 ]
