@@ -89,5 +89,7 @@
 ('layer7-par1', 199912),
 ('layer7-fra2', 211179),
 ('silverstar-as', 35624),
-('bns-as', 43444)
+('bns-as', 43444),
+('flyservers-endclients1', 48721),
+('nybula', 401116)
 ]
