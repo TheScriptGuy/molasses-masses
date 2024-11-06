@@ -91,5 +91,6 @@
 ('silverstar-as', 35624),
 ('bns-as', 43444),
 ('flyservers-endclients1', 48721),
-('nybula', 401116)
+('nybula', 401116),
+('hostingservices-inc', 32780)
 ]
