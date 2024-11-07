@@ -92,5 +92,6 @@
 ('bns-as', 43444),
 ('flyservers-endclients1', 48721),
 ('nybula', 401116),
-('hostingservices-inc', 32780)
+('hostingservices-inc', 32780),
+('servermania', 55286)
 ]
