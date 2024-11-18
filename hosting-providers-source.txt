@@ -93,5 +93,7 @@
 ('flyservers-endclients1', 48721),
 ('nybula', 401116),
 ('hostingservices-inc', 32780),
-('servermania', 55286)
+('servermania', 55286),
+('cheapyhost', 401120),
+('3xktech-cloud', 200373)
 ]
