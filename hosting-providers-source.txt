@@ -95,5 +95,14 @@
 ('hostingservices-inc', 32780),
 ('servermania', 55286),
 ('cheapyhost', 401120),
-('3xktech-cloud', 200373)
+('3xktech-cloud', 200373),
+('launchvps', 397384),
+('misaka1', 57695),
+('misaka2', 35487),
+('oneprovider', 136258),
+('zappiehost', 61138),
+('freerangecloudhosting', 53356),
+('hostsinger', 47583),
+('perfecto-as', 215479),
+('pfcloud', 51396)
 ]
