@@ -104,5 +104,7 @@
 ('freerangecloudhosting', 53356),
 ('hostsinger', 47583),
 ('perfecto-as', 215479),
-('pfcloud', 51396)
+('pfcloud', 51396),
+('idcloudhost', 136052),
+('ndchost', 33322)
 ]
