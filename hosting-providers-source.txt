@@ -109,5 +109,6 @@
 ('ndchost', 33322),
 ('limestone-networks', 46475),
 ('ekabi-llc', 401115),
-('constant-company-vultr', 20473)
+('constant-company-vultr', 20473),
+('liteserver', 60404)
 ]
