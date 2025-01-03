@@ -74,7 +74,7 @@
 ('quadranet', 8100),
 ('latitude-sh', 262287),
 ('secfirewallas', 206092),
-('hostroyale-in', 203020),
+('hostroyale1-in', 203020),
 ('performive', 46562),
 ('xtom', 6233),
 ('cyber-data-networks', 400882),
@@ -111,5 +111,7 @@
 ('ekabi-llc', 401115),
 ('constant-company-vultr', 20473),
 ('liteserver', 60404),
-('ld007-as', 207566)
+('ld007-as', 207566),
+('datacamp-cdn77', 60068),
+('hostroyale2-in', 207990)
 ]
