@@ -113,5 +113,7 @@
 ('liteserver', 60404),
 ('ld007-as', 207566),
 ('datacamp-cdn77', 60068),
-('hostroyale2-in', 207990)
+('hostroyale2-in', 207990),
+('tribeka-as', 211059),
+('hostkey-as', 57043)
 ]
