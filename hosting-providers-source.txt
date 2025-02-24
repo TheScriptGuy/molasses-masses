@@ -115,5 +115,6 @@
 ('datacamp-cdn77', 60068),
 ('hostroyale2-in', 207990),
 ('tribeka-as', 211059),
-('hostkey-as', 57043)
+('hostkey-as', 57043),
+('bl-networks', 399629)
 ]
