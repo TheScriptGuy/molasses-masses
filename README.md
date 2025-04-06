@@ -6,7 +6,7 @@ Project Molasses-Masses is designed to provide a dynamically updated list of hos
 
 Acknowledging that hosting providers themselves are not inherently problematic, some of their customers may have malicious intentions. Therefore, we adopt a "block first" approach, creating exceptions to allow legitimate traffic through as needed.
 
-This project is currently tracking `12721` IPv4 Subnets and `1674` IPv6 Subnets.
+This project is currently tracking `12723` IPv4 Subnets and `1674` IPv6 Subnets.
 
 ## :hammer_and_wrench: How It Works
 
@@ -164,10 +164,13 @@ The `hosting-providers-source.txt` file maintains the following format:
 ]
 ```
 
-
 ## :warning: Disclaimer
 
-This project is not meant to imply that all traffic from hosting providers is malicious. It's a tool for those who prefer a cautious approach to network traffic, allowing for precise control and whitelisting as needed.
+This project is not meant to imply that all traffic from hosting providers is malicious. It's a tool for those who prefer a cautious approach to network traffic, allowing for precise control and whitelisting as needed. If you leverage VPS services, then it is up to you to filter out your applicable IP addresses/subnets from the list. I cannot be held liable for any actions of this block list.
+
+## :fire: Shorewall Blocklist
+
+I have created a bash script `molasses-masses-shorewall.sh` that will help download the files and update shorewall rules to reflect the list of subnets that should be blocked. It should only update the list of iptables if the files hosted on Cloudflare have been updated.
 
 ## :handshake: Contributing
 
