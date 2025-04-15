@@ -110,5 +110,6 @@
 ('bl-networks', 399629),
 ('railnet-llc', 214943),
 ('green-floid-llc', 204957),
-('rapidseedbox-leaseweb', 60781)
+('rapidseedbox-leaseweb', 60781),
+('cyberghost-ist-as', 61272)
 ]
