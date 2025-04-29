@@ -13,7 +13,19 @@ logger = logging.getLogger(__name__)
 
 API_URL = "https://stat.ripe.net/data/announced-prefixes/data.json"
 
+# Constants for excluded prefixes as sets (for O(1) lookup time)
+EXCLUDED_PREFIXES = {
+    "v4": {
+        "0.0.0.0/0",  # Default IPv4
+    },
+    "v6": {
+        "::/0",       # Default IPv6
+    },
+}
+
+
 async def fetch_prefixes(session: aiohttp.ClientSession, provider: str, as_number: int, start_time: str) -> Tuple[str, int, List[str]]:
+    """Fetch the list of prefixes for a given provider and AS number, filtering excluded prefixes."""
     params = {
         "resource": str(as_number),
         "starttime": start_time
@@ -23,7 +35,15 @@ async def fetch_prefixes(session: aiohttp.ClientSession, provider: str, as_numbe
             if response.status == 200:
                 data = await response.json()
                 prefixes = [prefix["prefix"] for prefix in data.get("data", {}).get("prefixes", [])]
-                return provider, as_number, prefixes
+
+                result_prefixes = []
+                for prefix in prefixes:
+                    ip_version = categorize_ip(prefix)
+                    if ip_version in ("v4", "v6") and prefix not in EXCLUDED_PREFIXES[ip_version]:
+                        result_prefixes.append(prefix)
+                    else:
+                        logger.warning(f"Prefix {prefix} is part of excluded subnets for BGP AS{as_number}")
+                return provider, as_number, result_prefixes
             else:
                 logger.error(f"Error fetching data for {provider} (AS{as_number}): HTTP {response.status}")
                 logger.error(f"Response content: {await response.text()}")
