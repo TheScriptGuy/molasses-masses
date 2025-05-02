@@ -110,5 +110,6 @@
 ('rapidseedbox-leaseweb', 60781),
 ('cyberghost-ist-as', 61272),
 ('rackdog-llc', 398465),
-('packethubsa-as-ap', 136787)
+('packethubsa-as-ap', 136787),
+('telkom-internet-ltd-io', 210848)
 ]
