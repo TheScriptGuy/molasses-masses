@@ -110,5 +110,8 @@
 ('cyberghost-ist-as', 61272),
 ('rackdog-llc', 398465),
 ('packethubsa-as-ap', 136787),
-('telkom-internet-ltd-io', 210848)
+('telkom-internet-ltd-io', 210848),
+('netiface-llc', 36680),
+('24shells', 55081),
+('virtualserver-informatica-ltda', 262954)
 ]
