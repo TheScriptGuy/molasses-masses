@@ -112,5 +112,10 @@
 ('telkom-internet-ltd-io', 210848),
 ('netiface-llc', 36680),
 ('24shells', 55081),
-('virtualserver-informatica-ltda', 262954)
+('virtualserver-informatica-ltda', 262954),
+('globaltelehost-corp', 62563),
+('proton66-ru', 198953),
+('mevspace', 201814),
+('cloudzy', 14956),
+('datacampus-hk', 215929)
 ]
