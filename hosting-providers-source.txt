@@ -117,5 +117,6 @@
 ('proton66-ru', 198953),
 ('mevspace', 201814),
 ('cloudzy', 14956),
-('datacampus-hk', 215929)
+('datacampus-hk', 215929),
+('hostpapa', 36352)
 ]
