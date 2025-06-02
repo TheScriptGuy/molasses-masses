@@ -106,7 +106,7 @@ data/2024-09-09/amanah-tech-AS32489-v4.txt: line 15: 100.0.0.0/8
 
 ## :warning: Disclaimer
 
-This project is not meant to imply that all traffic from hosting providers is malicious. It's a tool for those who prefer a cautious approach to network traffic, allowing for precise control and whitelisting as needed. If you leverage VPS services, then it is up to you to filter out your applicable IP addresses/subnets from the list. I cannot be held liable for any actions of this block list.
+This project is not meant to imply that all traffic from hosting providers is malicious. It's a tool for those who prefer a cautious approach to network traffic, allowing for precise control and whitelisting as needed. If you leverage cloud hosted services, then it is up to you to filter out your applicable IP addresses/subnets from the list. I cannot be held liable for any actions of this block list.
 
 ## :fire: Shorewall Blocklist
 
