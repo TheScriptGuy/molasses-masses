@@ -120,5 +120,6 @@
 ('datacampus-hk', 215929),
 ('hostpapa', 36352),
 ('nforce-entertainment', 43350),
-('31173-se', 39351)
+('31173-se', 39351),
+('techoff-srv', 48090)
 ]
