@@ -122,5 +122,6 @@
 ('nforce-entertainment', 43350),
 ('31173-se', 39351),
 ('techoff-srv', 48090),
-('global-connectivity-solutions', 215540)
+('global-connectivity-solutions', 215540),
+('optima-llc-ru', 216341)
 ]
