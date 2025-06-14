@@ -123,5 +123,7 @@
 ('31173-se', 39351),
 ('techoff-srv', 48090),
 ('global-connectivity-solutions', 215540),
-('optima-llc-ru', 216341)
+('optima-llc-ru', 216341),
+('detai-prosperous-technologies-ltd', 212512),
+('vpsvault-host', 215925)
 ]
