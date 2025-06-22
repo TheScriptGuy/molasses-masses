@@ -125,5 +125,7 @@
 ('global-connectivity-solutions', 215540),
 ('optima-llc-ru', 216341),
 ('detai-prosperous-technologies-ltd', 212512),
-('vpsvault-host', 215925)
+('vpsvault-host', 215925),
+('alsycon-bv', 49870),
+('private-layer-inc', 51852)
 ]
