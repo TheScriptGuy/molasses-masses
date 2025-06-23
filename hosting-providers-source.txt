@@ -127,5 +127,6 @@
 ('detai-prosperous-technologies-ltd', 212512),
 ('vpsvault-host', 215925),
 ('alsycon-bv', 49870),
-('private-layer-inc', 51852)
+('private-layer-inc', 51852),
+('dedioutlet-llc', 399045)
 ]
