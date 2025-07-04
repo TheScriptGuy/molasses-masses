@@ -2,9 +2,20 @@
 
 set -euo pipefail
 
+API_KEY=""
+
+# DO NOT EDIT BELOW THIS LINE
+
+if [ -z "$API_KEY" ];
+then
+    echo "Please set API_KEY first."
+    exit 1
+fi
+
+
 # URLs
-IPV4_URL="https://files.broda.io/molasses_masses/combined-v4.txt"
-IPV6_URL="https://files.broda.io/molasses_masses/combined-v6.txt"
+IPV4_URL="https://mm.broda.io/mm/combined-v4.txt?key=$API_KEY"
+IPV6_URL="https://mm.broda.io/mm/combined-v6.txt?key=$API_KEY"
 
 # Temporary download files
 TMP_IPV4="/tmp/combined-v4.txt"
